@@ -1,7 +1,7 @@
 # Reinforcement Learning-Based Animal Foraging Behavior Using Q-Learning
 
 ## Reinforcement Learning Assignment
-**Project :** Foraging behavior model -	A simulated animal choosing between food patches, with the learned policy compared against optimal foraging theory.
+**Project 23 :** Foraging behavior model -	A simulated animal choosing between food patches, with the learned policy compared against optimal foraging theory.
 
 ### Group Members
 1. S.Aishwarya – 100523733051
