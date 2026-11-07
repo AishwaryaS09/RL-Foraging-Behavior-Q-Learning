@@ -1,12 +1,12 @@
 # Reinforcement Learning-Based Animal Foraging Behavior Using Q-Learning
 
-## Reinforcement Learning – Homework 2
-**Project Number:** 23
+## Reinforcement Learning Assignment
+**Project :** Foraging behavior model -	A simulated animal choosing between food patches, with the learned policy compared against optimal foraging theory.
 
 ### Group Members
-1. Full Name – Roll Number
-2. Full Name – Roll Number
-3. Full Name – Roll Number
+1. S.Aishwarya – 100523733051
+2. D.Charan Teja – 100523733016
+
 
 ## Project Objective
 Simulate an animal choosing between food patches and compare its learned foraging policy against optimal-foraging principles using Reinforcement Learning.
@@ -29,8 +29,8 @@ Simulate an animal choosing between food patches and compare its learned foragin
 
 ## Project Files
 - `foraging_qlearning.py` – Python implementation
-- `Project23_Report.pdf` – Project report
-- PowerPoint presentation – Project methodology and findings
+- `RL Assignment Report.pdf` – Project report
+- `RL Assignment PPT.pptx` - PowerPoint presentation of Project methodology and findings
 - `learning_curve.png` – Q-learning training graph
 - `baseline_comparison.png` – Performance comparison
 
@@ -43,4 +43,4 @@ Install Python with NumPy and Matplotlib, then run:
 `python foraging_qlearning.py`
 
 ## Academic Submission
-Reinforcement Learning Homework 2 – Project 23.
+Reinforcement Learning Assignment – Project 23 : Foraging behavior model.
